@@ -40,7 +40,7 @@ A personalized news mobile application built with **Flutter** that allows users 
 This project uses [NewsAPI.org](https://newsapi.org).
 
 ```dart
-const String apiKey = 'dd462ec0f5c8464297e484e7925fea4e';
+const String apiKey = 'YOUR_API_KEY_HERE';
 
 ```
 
@@ -54,19 +54,7 @@ lib/
 ├── article_page.dart     # Article detail with URL launcher
 ```
 
-# Authors
 
-- Jasem Alkhaleel 
 
-  Course: CSIS401-01 – Mobile Computing
 
-# Submission Info
-
-Presentation Due: June 12
-
-Submission Includes:
-
-Project ZIP + README
-
-PowerPoint presentation
 
