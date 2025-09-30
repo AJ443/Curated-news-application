@@ -56,12 +56,9 @@ lib/
 
 # Authors
 
-- Jasem Alkhaleel – 65365
-- Mohammad Hadeed – 49917
-- Ryan Al-nafisi– 52929
-  Course: CSIS401-01 – Mobile Computing
+- Jasem Alkhaleel 
 
-  Instructor: Dr. Shereef Al-Maati
+  Course: CSIS401-01 – Mobile Computing
 
 # Submission Info
 
@@ -72,3 +69,4 @@ Submission Includes:
 Project ZIP + README
 
 PowerPoint presentation
+
